@@ -1,0 +1,7 @@
+{
+  "name": "derivar-formatos",
+  "version": "0.1.0",
+  "description": "Cria e atualiza scripts do Photoshop que desdobram criativos aprovados em outros formatos (Story, quadrado, Google Ads, tamanhos livres, carrossel) com PSDs editáveis, com um perfil de layout por cliente.",
+  "author": { "name": "V4 Company - Carvalho & Co" },
+  "keywords": ["photoshop", "psd", "formatos", "derivação", "criativos", "google ads", "story"]
+}

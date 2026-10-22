@@ -1,0 +1,13 @@
+{
+  "name": "ferramentas-design",
+  "description": "Ferramentas de design da agência para o Claude",
+  "owner": { "name": "V4 Company - Carvalho & Co" },
+  "plugins": [
+    {
+      "name": "derivar-formatos",
+      "source": "./plugins/derivar-formatos",
+      "description": "Cria e atualiza o script do Photoshop que desdobra o criativo aprovado em Story, quadrado, Google Ads e tamanhos livres, com PSDs editáveis.",
+      "version": "0.1.0"
+    }
+  ]
+}
